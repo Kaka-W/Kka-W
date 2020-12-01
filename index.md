@@ -1,9 +1,7 @@
-### 个人主页
+### 个人简介
 
 
 ```markdown
-
-# 个人简介
 姓名：王静怡                  性别：女
 籍贯：中国浙江                民族：汉族
 电话：18858259403
@@ -23,17 +21,6 @@ Email：139835627@qq.com
 喜欢运动，喜欢篮球，喜欢思考问题，对新鲜事物充满好奇。
 计算机编程十分感兴趣，但基础相对薄弱。
 受父亲影响，喜欢看书，喜欢慢摇。
-- Bulleted
-- List
-
-1. Nembered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## 大学生记录
 ### 2020.9.21 
