@@ -6,10 +6,12 @@
 # 个人简介
 姓名：王静怡                  性别：女
 籍贯：中国浙江                民族：汉族
+电话：18858259403
+WeChat:j020712y
+Email：139835627@qq.com
+
 ### 研究方向
-### 获奖经历
-
-
+通信工程。
 
 ### 性格特点
 
@@ -24,16 +26,10 @@
 - Bulleted
 - List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ## 大学生记录
 ### 2020.9.21 
 初入大学已然月余，积极的颓废的，游手好闲心无旁骛等等都一一领略过。没有与想象中大学生活的截然不同，但依旧能够感受到处于所谓最关键时期的我，我们对自身定位的迷茫。
 ## 大学获奖及经历
+###
+###
