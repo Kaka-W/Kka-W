@@ -26,10 +26,19 @@ Email：139835627@qq.com
 - Bulleted
 - List
 
+1. Nembered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## 大学生记录
 ### 2020.9.21 
 初入大学已然月余，积极的颓废的，游手好闲心无旁骛等等都一一领略过。没有与想象中大学生活的截然不同，但依旧能够感受到处于所谓最关键时期的我，我们对自身定位的迷茫。
 ## 大学获奖及经历
-###
-###
+### ·奖学金
+### ·荣誉称号
+### ·比赛项目
