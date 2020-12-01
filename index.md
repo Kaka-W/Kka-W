@@ -1,21 +1,26 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Kaka-W/Kka-W/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### 个人主页
 
 
 ```markdown
-Syntax highlighted code block
 
 # 个人简介
 姓名：王静怡                  性别：女
 籍贯：中国浙江                民族：汉族
-## 学习经历
+### 研究方向
 ### 获奖经历
 
+
+
+### 性格特点
+
+活泼幽默，积极乐观。做事比较急躁，稍微偏外向，喜欢思考。
+在面临新环境时有些较强的适应能力。执行力极强，希望感受不同生活，具备冒险精神。
+愿意参加集体活动，并拥有良好社交。
+在新环境中需要一步步慢慢地适应，脱离舒适区的氛围下容易使自我的调控能力减弱，但却能快速适应新环境。
+### 爱好
+喜欢运动，喜欢篮球，喜欢思考问题，对新鲜事物充满好奇。
+计算机编程十分感兴趣，但基础相对薄弱。
+受父亲影响，喜欢看书，喜欢慢摇。
 - Bulleted
 - List
 
@@ -28,11 +33,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### 性格特点
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kaka-W/Kka-W/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### 爱好
-
-### 
+## 大学生记录
+### 2020.9.21 
+初入大学已然月余，积极的颓废的，游手好闲心无旁骛等等都一一领略过。没有与想象中大学生活的截然不同，但依旧能够感受到处于所谓最关键时期的我，我们对自身定位的迷茫。
+## 大学获奖及经历
